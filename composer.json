@@ -1,0 +1,22 @@
+{
+    "name": "a-gor/portal_admin_city",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "agorlov1",
+            "email": "agorlov2@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "larapack/dd": "^1.1",
+        "laravel/pint": "^1.15"
+    },
+    "require": {
+        "symfony/var-dumper": "6.4.*"
+
+    }
+}
